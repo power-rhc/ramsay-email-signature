@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sam Power | Ramsay Health Care</title>
+</head>
+
+<body style="margin:0; padding:16px; background:#ffffff;">
+
+<div style="
+  font-family:Arial, Helvetica, sans-serif;
+  color:#12395b;
+  width:350px;
+  max-width:350px;
+  margin:0;
+  padding:0;
+">
+
+  <!-- NAME -->
+  <div style="
+    font-size:16px;
+    line-height:20px;
+    font-weight:bold;
+    margin:0 0 7px 0;
+    padding:0;
+  ">
+    Sam Power
+  </div>
+
+  <!-- TITLE -->
+  <div style="
+    font-size:13px;
+    line-height:17px;
+    font-weight:bold;
+    margin:0;
+    padding:0;
+  ">
+    Business Development Manager - Northern NSW
+  </div>
+
+  <!-- REGION -->
+  <div style="
+    font-size:13px;
+    line-height:17px;
+    font-weight:bold;
+    margin:0 0 14px 0;
+    padding:0;
+  ">
+    Mid North Coast &amp; Northern Rivers NSW
+  </div>
+
+  <!-- RAMSAY LOGO -->
+  <div style="margin:0 0 12px 0; padding:0;">
+    <img
+      src="https://raw.githubusercontent.com/power-rhc/ramsay-email-signature/main/RHC-logo.jpg"
+      alt="Ramsay Health Care"
+      width="72"
+      style="
+        display:block;
+        width:72px;
+        height:auto;
+        border:0;
+        margin:0;
+        padding:0;
+      ">
+  </div>
+
+  <!-- HOSPITALS -->
+  <div style="
+    font-size:11px;
+    line-height:16px;
+    color:#666666;
+    margin:0 0 9px 0;
+    padding:0;
+  ">
+    Baringa Private Hospital | Ramsay Surgical Centre Coffs Harbour |<br>
+    Port Macquarie Private Hospital | Ballina Day Surgery
+  </div>
+
+  <!-- MOBILE -->
+  <div style="
+    font-size:12px;
+    line-height:17px;
+    margin:0;
+    padding:0;
+  ">
+    <strong>Mobile:</strong>&nbsp;
+    <a href="tel:+61499822694"
+       style="color:#666666; text-decoration:none;">
+      0499 822 694
+    </a>
+  </div>
+
+  <!-- EMAIL -->
+  <div style="
+    font-size:12px;
+    line-height:17px;
+    margin:0;
+    padding:0;
+  ">
+    <strong>Email:</strong>&nbsp;
+    <a href="mailto:powersamuel@ramsayhealth.com.au"
+       style="color:#005eb8; text-decoration:underline;">
+      powersamuel@ramsayhealth.com.au
+    </a>
+  </div>
+
+  <!-- WEB -->
+  <div style="
+    font-size:12px;
+    line-height:17px;
+    margin:0;
+    padding:0;
+  ">
+    <strong>Web:</strong>&nbsp;
+    <a href="https://www.ramsayhealth.com"
+       style="color:#005eb8; text-decoration:underline;">
+      www.ramsayhealth.com
+    </a>
+  </div>
+
+  <!-- PEOPLE CARING FOR PEOPLE -->
+  <div style="margin:16px 0 0 0; padding:0;">
+    <img
+      src="https://raw.githubusercontent.com/power-rhc/ramsay-email-signature/main/RHC-people-caring-for-people.jpg"
+      alt="People caring for people"
+      width="240"
+      style="
+        display:block;
+        width:240px;
+        height:auto;
+        border:0;
+        margin:0;
+        padding:0;
+      ">
+  </div>
+
+</div>
+
+</body>
+</html>
